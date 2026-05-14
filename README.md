@@ -3,7 +3,7 @@
 A Node.js REST API for managing event registrations and ticket bookings.
 
 ##  Deployed Link
-
+https://eventticketingapi.onrender.com/
 
 ##  Features
 - **Auth:** JWT-based registration and login.
